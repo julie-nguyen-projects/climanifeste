@@ -199,7 +199,7 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * [Kévin Nadin](https://github.com/kevinjhappy), développeur PHP
 * [Julien Negros](https://twitter.com/djiock), administrateur systèmes
 * [Samuel Nela](https://github.com/samnela), software craftsman
-* [Julie Nguyen](https://github.com/julie-nguyen-projects), scum master / développeuse java/angular
+* [Julie Nguyen](https://www.linkedin.com/in/julie-nguyen-a0288a112/), scum master / développeuse java/angular
 * [Florent Nollet](https://www.linkedin.com/in/florent-n-7584514/), architecte technique
 * [Anthony Oblin](https://www.linkedin.com/in/anthony-oblin-3697b7/), Ingénieur de production
 * [Raphaël Odienne](https://www.linkedin.com/in/rapha%C3%ABl-o-439192147/), développeur
